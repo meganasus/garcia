@@ -1,7 +1,7 @@
 import "./Nav.css"
 
 const Nav = () => {
-    return <nav>
+    return <nav className="top">
         <h1 className="about">
             <Link to="/">About</Link>
         </h1>
