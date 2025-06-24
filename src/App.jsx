@@ -3,7 +3,7 @@ import { Link, BrowserRouter } from "react-router-dom";
 
 const App = () => {
   return <div>
-      <Link>About</Link>
+      <Link to="/about">About</Link>
       <p>Contact Sustainability</p>
     </div>;
 };
