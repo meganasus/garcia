@@ -4,7 +4,8 @@ import { Link } from "react-router-dom";
 const App = () => {
   return <div>
         <Link to="/">About</Link>
-        <p> Contact Sustainability</p>
+        <Link>Contact</Link>
+        <Link>Sustainability</Link>
     </div>;
 };
 
