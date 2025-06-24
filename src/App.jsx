@@ -7,7 +7,7 @@ import { Routes, Route } from "react-router-dom";
 const App = () => {
   return <Routes>
         <Route to="/" element={<p>About</>} />
-        <Route to="/footer" element={<Footer />} />
+        <Route to="/contact" element={<Footer />} />
     </Routes>;
 };
 
