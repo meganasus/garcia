@@ -1,7 +1,9 @@
 import React from "react";
 
 const App = () => {
-  return <div>Basic Pursuit React Starter</div>;
+  return <div>
+    About Contact Sustainability
+    </div>;
 };
 
 export default App;
