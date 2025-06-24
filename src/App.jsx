@@ -5,11 +5,9 @@ import Footer from "Footer.jsx";
 import { Routes, Route } from "react-router-dom";
 
 const App = () => {
-  return <div>
-        <Nav />
-        <h2>Unparalleled web development for small businesses</h2>
-        <Footer />
-    </div>;
+  return <Routes>
+        <Route to="/" element={<Home />} />
+    </Routes>;
 };
 
 export default App;
