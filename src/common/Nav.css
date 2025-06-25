@@ -1,10 +1,10 @@
-h1.nav {
+nav {
   font-size: 24px;
   display: flex;
   row-gap: 12px;
 }
 
-h1.nav p {
+nav p {
   display: inline-flex;
 }
 
@@ -15,4 +15,8 @@ p.about Link.about {
 
 p.contact Link.contact {
   margin: 0 12px 0 0;
+}
+
+p.sustainability Link.sustainability {
+  
 }
