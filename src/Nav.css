@@ -1,10 +1,11 @@
-nav.top {
-
-}
-
-h1.about Link.about {
+h1.nav {
   display: flex;
   row-gap: 12px;
+  font-size: 32px;
+  color: red;
+}
+
+Link.about {
   font-size: 32px;
   color: red;
 }

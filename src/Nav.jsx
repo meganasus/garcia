@@ -1,10 +1,10 @@
-nav.top {
+import "./Nav.css";
+import { Link } from "react-router-dom";
 
-}
-
-h1.about Link.about {
-  display: flex;
-  row-gap: 12px;
-  font-size: 32px;
-  color: red;
+const Nav = () => {
+  return <h1 className="nav">
+    <Link className="about">About</Link>
+    <Link className="contact">Contact</Link>
+    <Link className="sustainability">Sustainability</Link>
+  </h1>
 }
