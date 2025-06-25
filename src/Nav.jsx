@@ -8,3 +8,5 @@ const Nav = () => {
     <Link className="sustainability">Sustainability</Link>
   </h1>
 }
+
+export default Nav;
