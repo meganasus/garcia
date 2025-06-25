@@ -1,4 +1,5 @@
 import "./Home.css";
+import Nav from "./Nav.jsx";
 
 const Home = () => {
   return <>

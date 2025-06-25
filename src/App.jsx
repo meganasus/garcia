@@ -1,6 +1,6 @@
 import Footer from "./Footer.jsx";
 import Home from "./Home.jsx";
-import { Link, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 
 const App = () => {
   return <Routes>
