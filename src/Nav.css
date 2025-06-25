@@ -4,11 +4,11 @@ h1.nav {
   row-gap: 12px;
 }
 
-h1.nav Link.about {
+p.about Link.about {
   color: red;
   margin: 0px 12px 0px 0px;
 }
 
-Link.contact {
+p.contact Link.contact {
   margin: 0 12px 0 0;
 }
