@@ -1,6 +1,6 @@
 import "./Home.css";
-import Nav from "./Nav.jsx";
-import Footer from "./Footer.jsx";
+import Nav from "../common/Nav.jsx";
+import Footer from "../common/Footer.jsx";
 
 const Home = () => {
   return <>

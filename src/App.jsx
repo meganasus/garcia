@@ -1,5 +1,5 @@
-import Footer from "./Footer.jsx";
-import Home from "./Home.jsx";
+import Footer from "./common/Footer.jsx";
+import Home from "./components/Home.jsx";
 import { Routes, Route } from "react-router-dom";
 
 const App = () => {
