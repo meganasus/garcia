@@ -1,9 +1,8 @@
 import "./Footer.css"
 
-const Footer = () => {
-    return <footer className="credits">
-        <p>Garcia Innovations LLC</p>
-    </footer>
+const Footer = () =>
+  return <p className="credits">Garcia Innovations LLC
+  </p>
 }
 
 export default Footer;
