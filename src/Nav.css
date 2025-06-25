@@ -3,7 +3,7 @@ nav.top {
     row-gap: 25px;
 }
 
-h1.about Link {
+h1.about Link.about {
   font-size: 32px;
   color: red;
 }
