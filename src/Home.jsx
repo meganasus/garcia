@@ -1,5 +1,6 @@
 import "./Home.css";
 import Nav from "./Nav.jsx";
+import Footer from "./Footer.jsx";
 
 const Home = () => {
   return <>
