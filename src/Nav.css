@@ -2,7 +2,7 @@ h1.nav {
   font-size: 24px;
 }
 
-Link.about {
+h1.nav Link.about {
   color: red;
   margin: 0 12px 0 0;
 }
