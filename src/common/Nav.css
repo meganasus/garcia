@@ -1,4 +1,6 @@
 nav {
+  width: auto;
+  height: 100px;
   font-size: 24px;
   display: flex;
   row-gap: 12px;
