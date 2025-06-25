@@ -1,4 +1,4 @@
-nav {
+section.navigations {
   max-width: 100%;
   height: 50px;
   font-size: 24px;
@@ -6,20 +6,23 @@ nav {
   row-gap: 12px;
 }
 
-nav p {
-  display: inline-flex;
+section.navigation Link {
   width: 100px;
 }
 
-p.about Link.about {
+nav p.sustainability {
+  width: 150px;
+}
+
+section.navigation Link.about {
   color: red;
   margin: 0px 12px 0px 0px;
 }
 
-p.contact Link.contact {
+section.navigation Link.contact {
   margin: 0 12px 0 0;
 }
 
-p.sustainability Link.sustainability {
+section.navigation Link.sustainability {
   
 }
