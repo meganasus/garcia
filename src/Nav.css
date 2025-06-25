@@ -1,11 +1,13 @@
 h1.nav {
-  display: flex;
-  row-gap: 12px;
   font-size: 32px;
-  color: red;
 }
 
 Link.about {
   font-size: 32px;
   color: red;
+  margin: 0 12px;
+}
+
+Link.contact {
+  margin: 0 0 0 12px;
 }
