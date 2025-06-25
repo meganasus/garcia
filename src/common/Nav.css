@@ -4,6 +4,10 @@ h1.nav {
   row-gap: 12px;
 }
 
+h1.nav p {
+  display: inline-flex;
+}
+
 p.about Link.about {
   color: red;
   margin: 0px 12px 0px 0px;
