@@ -1,5 +1,7 @@
 h1.nav {
   font-size: 24px;
+  display: flex;
+  row-gap: 12px;
 }
 
 h1.nav Link.about {
