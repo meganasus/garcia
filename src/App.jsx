@@ -5,9 +5,9 @@ import { Link, Routes, Route } from "react-router-dom";
 
 const App = () => {
   return <Routes>
-    <Route to="/" element={<p>About</p>} />
-    <Route to="/contact" element={<Footer />} />
-    <Route to="/about" element={<p>About</p>} />
+    <Route path="/" element={<p>About</p>} />
+    <Route path="/contact" element={<Footer />} />
+    <Route path="/about" element={<p>About</p>} />
   </Routes>;
 };
 
