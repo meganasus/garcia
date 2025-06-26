@@ -1,4 +1,3 @@
-import Footer from "./common/Footer.jsx";
 import Home from "./components/Home.jsx";
 import About from "./components/About.jsx";
 import Contact from "./components/Contact.jsx";
