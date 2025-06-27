@@ -30,5 +30,6 @@ section.navigation Link.contact {
     row-gap: 5px;
     height: 100px;
     width: auto;
+    font-size: 18px;
   }
 }
