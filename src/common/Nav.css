@@ -31,5 +31,6 @@ section.navigation Link.contact {
     height: 100px;
     width: auto;
     font-size: 18px;
+    text-decoration: none;
   }
 }
