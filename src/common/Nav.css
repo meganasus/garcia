@@ -24,8 +24,11 @@ section.navigation Link.contact {
 }
 
 @media max-width (1000px) {
+
   section.navigation {
     display: flex;
     row-gap: 5px;
+    height: 100px;
+    width: auto;
   }
 }
