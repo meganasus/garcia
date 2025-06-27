@@ -26,3 +26,10 @@ section.navigation Link.contact {
 section.navigation Link.sustainability {
   
 }
+
+@media max-width (1000px) {
+  section.navigation {
+    display: flex;
+    row-gap: 5px;
+  }
+}
