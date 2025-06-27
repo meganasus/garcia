@@ -10,7 +10,7 @@ section.navigation Link {
   width: 100px;
 }
 
-nav p.sustainability {
+section.navigation Link.sustainability {
   width: 150px;
 }
 
@@ -21,10 +21,6 @@ section.navigation Link.about {
 
 section.navigation Link.contact {
   margin: 0 12px 0 0;
-}
-
-section.navigation Link.sustainability {
-  
 }
 
 @media max-width (1000px) {
