@@ -1,5 +1,6 @@
 div.home {
   background: radial-gradient(black, #000089);
+  position: relative;
   color: whitesmoke;
   height: 1000px;
   width: auto;
