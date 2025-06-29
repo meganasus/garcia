@@ -1,6 +1,5 @@
 div.home {
   background: radial-gradient(black, #000089);
-  height: 900px;
+  height: 1000px;
   width: auto;
-  overflow: clip;
 }
