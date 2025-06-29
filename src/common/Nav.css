@@ -4,20 +4,20 @@ section.navigation {
   row-gap: 12px;
 }
 
-section.navigation Link {
+Link {
   width: 100px;
 }
 
-section.navigation Link.sustainability {
+Link.sustainability {
   width: 150px;
 }
 
-section.navigation Link.about {
+Link.about {
   color: red;
   margin: 0px 12px 0px 0px;
 }
 
-section.navigation Link.contact {
+Link.contact {
   margin: 0 12px 0 0;
 }
 
